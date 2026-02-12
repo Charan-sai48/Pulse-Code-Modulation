@@ -140,9 +140,13 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-Attach the output waveform
-```
+## PCM
+<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/90f79228-29ab-4cab-89b1-e35c2e90887a" />
+
+## DM
+<img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/4d2003f4-e5a3-487f-8b6c-748ed98879eb" />
+
+
 # Results
 Thus, the programs for pulse code modulation and delta modulation have been executed and the waveforms have been verified successfully.
 
